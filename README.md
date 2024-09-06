@@ -1,4 +1,4 @@
 # Sara
  Desktop based open Ai
  <br>
- Shalom Gosain
+by Shalom Gosain
